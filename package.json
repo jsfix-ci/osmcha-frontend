@@ -18,7 +18,7 @@
     "@turf/bbox": "^6.4.0",
     "@turf/simplify": "^6.4.0",
     "@turf/truncate": "^6.4.0",
-    "animate.css": "^3.7.2",
+    "animate.css": "^4.1.1",
     "changeset-map": "^1.11.2",
     "date-fns": "^2.22.1",
     "history": "^4.10.1",
